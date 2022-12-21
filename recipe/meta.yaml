@@ -39,15 +39,17 @@ test:
     - sql
 
 about:
-  home: https://pypi.python.org/pypi/ipython-sql
+  home: https://pypi.org/project/ipython-sql/
   license: MIT
+  license_family: MIT
   license_file: LICENSE
-  summary: 'RDBMS access via IPython'
-
-  description: 'ipython-sql introduces a %sql (or %%sql) magic to your notebook allowing you to
+  summary: RDBMS access via IPython
+  description: |
+    ipython-sql introduces a %sql (or %%sql) magic to your notebook allowing you to
     connect to a database, using SQLAlchemy connect strings, then issue SQL commands within 
-    IPython or IPython Notebook.'
+    IPython or IPython Notebook.
   dev_url: https://github.com/catherinedevlin/ipython-sql
+  doc_url: https://github.com/catherinedevlin/ipython-sql/blob/master/README.rst
 
 extra:
   recipe-maintainers:
