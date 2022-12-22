@@ -38,7 +38,7 @@ test:
     - sql
 
 about:
-  home: https://pypi.org/project/ipython-sql/
+  home: https://github.com/catherinedevlin/ipython-sql
   license: MIT
   license_family: MIT
   license_file: LICENSE
